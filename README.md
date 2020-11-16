@@ -1,5 +1,5 @@
 # Description
-This is a static profile website template to showcase your skills and experience.
+This is a static profile website template that could be use as a résumé to showcase your skills and experience.
 
 # Technology Used
 Developed in HTML+CSS+JS
